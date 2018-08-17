@@ -1,2 +1,2 @@
 # interview-problems
-A lil' collection of interview problems and solutions.
+A collection of interview problems and solutions.
